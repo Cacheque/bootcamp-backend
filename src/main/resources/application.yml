@@ -18,5 +18,6 @@ spring:
           ddl-auto: none
 
 application:
-  description: Projeto criado para o Bootcamp DIO - Santander / Backend
+  description: Feito por Gariano Kelson Cacheque - Projeto criado para o Bootcamp DIO - Santander / Backend
+
 
